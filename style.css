@@ -1,0 +1,21 @@
+body{
+    background-image: url(img/g7kns.gif);
+    background-color: gray;
+    width: 1000px;
+    position: relative;
+    left: 500px;
+    
+}
+.maks{
+    width: 220px;
+    align-items: center;
+}
+.text{
+    color: whitesmoke;
+    background-color: black;
+    width: 300px;
+    text-align: center;
+}
+.lesha{
+    width: 50px;
+}
